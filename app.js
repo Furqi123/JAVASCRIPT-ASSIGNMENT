@@ -1421,12 +1421,29 @@
 
 // Javascript assignment  qno 11
 
-function abc(input){
-  var  change = input.slice(0,1).toUpperCase();
-  var change2 = input.slice(1).toLowerCase();
-  return change + change2
-}
+// function abc(input){
+//   var  change = input.slice(0,1).toUpperCase();
+//   var change2 = input.slice(1).toLowerCase();
+//   return change + change2
+// }
 
-var input = prompt("enter word");
-console.log(abc(input))
+// var input = prompt("enter word");
+// console.log(abc(input))
+
+// Javascript assignment  qno 14
+ 
+
+// function calcCircumference(radius){
+//   var formula = radius*3.142*2
+//   console.log("Circumference is "+Math.round(formula)) 
+// }
+
+// function calcArea(radius){
+//   var formula = 3.142*(radius*radius);
+//   console.log("Area is "+Math.round(formula));
+// }
+
+// calcCircumference(5)
+// calcArea(5)
+
 
